@@ -1,0 +1,22 @@
+{
+  "model_name": "Gradient Boosting Ensemble v3.8",
+  "mae": 1.71,
+  "rmse": 2.15,
+  "median_absolute_error": 1.43,
+  "pct_within_5_min": 98.0,
+  "pct_within_10_min": 100.0,
+  "pct_within_15_min": 100.0,
+  "training_samples": 8000,
+  "validation_samples": 2000,
+  "feature_importances": {
+    "train_priority": 0.0604530050057072,
+    "current_delay_min": 0.035757988187503295,
+    "section_length_km": 0.05123502311236236,
+    "section_max_speed": 0.0004303418847991448,
+    "congestion_density": 0.17547838677504005,
+    "added_dwell_min": 0.16915347734788105,
+    "speed_restriction_km": 0.4596442408183244,
+    "visibility_km": 0.04702990489982159,
+    "day_of_week": 0.0008176319685609588
+  }
+}

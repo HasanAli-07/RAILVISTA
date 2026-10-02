@@ -1,0 +1,11 @@
+{
+  "title": "RAILVISTA",
+  "description": "RailVista offers a sleek, modern interface for railway enthusiasts and professionals, enhancing user experience with intuitive design and a light theme.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

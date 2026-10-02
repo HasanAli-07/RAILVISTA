@@ -1,0 +1,27 @@
+train_number,train_name,station_code,station_name,seq,dist_km,sched_arr,sched_dep
+12002,Bhopal Shatabdi,NDLS,New Delhi,1,0,06:00,06:15
+12002,Bhopal Shatabdi,MTJ,Mathura Jn,2,141,07:40,07:42
+12002,Bhopal Shatabdi,AGC,Agra Cantt,3,194,08:34,08:37
+12002,Bhopal Shatabdi,GWL,Gwalior Jn,4,312,10:03,10:06
+12002,Bhopal Shatabdi,VGLJ,Jhansi Jn,5,409,11:28,11:31
+12002,Bhopal Shatabdi,BPL,Bhopal Jn,6,701,14:10,14:15
+12002,Bhopal Shatabdi,RKMP,Rani Kamlapati,7,707,14:28,14:28
+12626,Kerala Express,NDLS,New Delhi,1,0,20:00,20:10
+12626,Kerala Express,MTJ,Mathura Jn,2,141,22:20,22:25
+12626,Kerala Express,AGC,Agra Cantt,3,194,23:20,23:25
+12626,Kerala Express,GWL,Gwalior Jn,4,312,01:05,01:08
+12626,Kerala Express,VGLJ,Jhansi Jn,5,409,02:35,02:43
+12190,Mahakaushal Express,NZM,Hazrat Nizamuddin,1,0,12:40,12:50
+12190,Mahakaushal Express,MTJ,Mathura Jn,2,134,14:45,14:50
+12190,Mahakaushal Express,AGC,Agra Cantt,3,188,15:40,15:45
+12190,Mahakaushal Express,GWL,Gwalior Jn,4,306,17:38,17:40
+12190,Mahakaushal Express,VGLJ,Jhansi Jn,5,403,19:30,19:38
+22221,Rajdhani Express,MMCT,Mumbai Central,1,0,16:00,16:10
+22221,Rajdhani Express,BPL,Bhopal Jn,2,838,03:15,03:20
+22221,Rajdhani Express,VGLJ,Jhansi Jn,3,1130,06:45,06:50
+22221,Rajdhani Express,AGC,Agra Cantt,4,1345,09:30,09:32
+22221,Rajdhani Express,NDLS,New Delhi,5,1539,12:15,12:15
+11808,Intercity Express,AF,Agra Fort,1,0,06:00,06:10
+11808,Intercity Express,AGC,Agra Cantt,2,4,06:30,06:35
+11808,Intercity Express,GWL,Gwalior Jn,3,122,08:45,08:50
+11808,Intercity Express,VGLJ,Jhansi Jn,4,219,10:40,10:50
